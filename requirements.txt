@@ -1,0 +1,15 @@
+pandas
+numpy
+torch
+torchvision
+scikit-learn
+openslide-python
+opencv-python
+tqdm
+albumentations
+segmentation-models-pytorch
+tifffile
+jupyterlab
+optuna
+matplotlib
+seaborn

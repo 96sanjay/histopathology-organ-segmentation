@@ -1,0 +1,22 @@
+# Python build artifacts and environments
+__pycache__/
+*.py[cod]
+.env
+venv/
+env/
+
+# IDE and OS specific
+.vscode/
+.idea/
+.DS_Store
+
+# Data, Models, and Outputs (NEVER commit these)
+/data/
+/models/
+*.csv
+*.pth
+*.tiff
+*.pkl
+
+# Log files
+*.log
